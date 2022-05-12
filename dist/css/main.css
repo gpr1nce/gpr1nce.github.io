@@ -1,0 +1,54 @@
+/* Make all font for all elements red */
+* {
+    color: red;
+    font-family: 'Macondo', cursive;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+  }
+
+/* added for MTSH */
+  .avatar {
+    border-radius: 50%; 
+    float: right; 
+    margin-right: 1em;
+  }
+
+/* overrides * */
+p, a {
+    color: blue;
+}
+
+/* overrides p  */
+p.green {
+    color: green;
+}
+
+/* overrides *, a, p */
+.indigo {
+    color: indigo;
+}
+
+/* overrides a */
+a[href="/"] {
+    color: aquamarine;
+}
+
+/* overrides a */
+a:link,
+a:visited {
+    color: maroon;
+}
+
+/* overrides a:link, a:visited */
+a.indigo:link,
+a.indigo:visited {
+    color: purple;
+}
+
+/* overrides everything */
+#home{
+    color: #efefef; 
+}

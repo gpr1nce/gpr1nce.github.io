@@ -1,0 +1,15 @@
+<link rel="author" href="humans.txt" />
+
+/* TEAM */
+Your title: George T Prince
+Site: http://dbdatacafe.com
+Location: Chicago IL USA
+
+/* THANKS */
+Name: My teachers and manicurists
+
+/* SITE */
+Last update: 2022/05/11
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
